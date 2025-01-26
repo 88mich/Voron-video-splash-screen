@@ -2,7 +2,6 @@
 This is a tutorial to install the video in the splash screen of a klipper printer such as Voron and VzBoT when Raspberry PI Boot up.
 This method is compatible with 800X480 TFT 4.3", 5" and 7" screens for Raspberry PI.
 
-![](blue.gif)
 
 thanks to VzBoT and NordFPV for the starting guide.
 
