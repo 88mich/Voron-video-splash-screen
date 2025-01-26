@@ -1,5 +1,6 @@
 # Voron-video-splash-screen
-a tutorial to install the video in the splash screen of a klipper printer with raspberry such as voron, vzbot etc..
+This is a tutorial to install the video in the splash screen of a klipper printer such as Voron and VzBoT when Raspberry PI Boot up.
+This method is compatible with 800X480 TFT 4.3", 5" and 7" screens for Raspberry PI.
 
 ![](blue.gif)
 
