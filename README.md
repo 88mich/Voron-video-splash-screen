@@ -60,7 +60,7 @@ WantedBy=sysinit.target
 
 then:
 ```
-sudo nano /etc/re.local
+sudo nano /etc/rc.local
 ```
 and add this line before the exit 0:
 ```
