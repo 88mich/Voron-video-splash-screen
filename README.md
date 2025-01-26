@@ -1,7 +1,7 @@
 # Voron-video-splash-screen
 a tutorial to install the video in the splash screen of a klipper printer with raspberry such as voron, vzbot etc..
 
-![](blue.gif)
+![](/gif/blue.gif)
 
 thanks to VzBoT and NordFPV for the starting guide.
 
