@@ -1,6 +1,13 @@
 # Voron-video-splash-screen
 a tutorial to install the video in the splash screen of a klipper printer with raspberry such as voron, vzbot etc..
 
+thanks to VzBoT and NordFPV for the starting guide.
+
+We have 2 video: 1.mp4 and 2.mp4. 1.mp4 is the real video that we see in the boot sequence, the 2.mp4 it's a black video that serves to block klipperscreen which otherwise when started interrupts the playback of 1.mp4
+
+ATTENTION!!:
+for RPI 5 the file config.txt and cmdline.txt are in the folder /boot/ and not /etc/
+
 
 What do you need?
 - SSH terminal like MobaXterm
